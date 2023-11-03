@@ -1,0 +1,19 @@
+{
+  "name": "cli_calculator",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm start ./dist/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.4",
+    "inquirer": "^9.2.11",
+    "typescript": "^5.2.2"
+  },
+  "devDependencies": {},
+  "description": ""
+}
